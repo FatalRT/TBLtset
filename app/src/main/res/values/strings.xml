@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LBSTest</string>
+    <string name="loc_btn">loc_btn</string>
+    <string name="tq_btn">tq_btn</string>
+</resources>
